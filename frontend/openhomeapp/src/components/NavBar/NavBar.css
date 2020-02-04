@@ -1,0 +1,68 @@
+
+#intro{
+    
+    background-image:url("//csvcus.homeaway.com/rsrcs/stab-cms-resources/0.10.30/images/homepage/jumbotron/ptaHpNextHeroImage/large.jpg")  ;
+    background-position: 50%;
+    background-size: cover;
+    /* height: 600px; */
+}
+
+.btn-inverse {
+    background-color: #fff;
+    color: #0067db;
+    border-color: #fff;
+    margin-right: 10px;
+    padding: 12px 40px;
+    font-size: 14px;
+}
+.birdhouse{
+    height: 50px;
+    width: 50px;
+}
+.bg{
+    background: #0067db;
+}
+.navDrop{
+    padding: 10px 15px;
+    margin-left: 10px;
+    margin-right: 10px
+}
+.btn:focus {
+    outline: none;
+  }
+.bs{
+    width: 300px;
+    line-height: 2.5rem;
+    border: #0067db
+}
+.btn-primary{
+    position: relative;
+    border-radius: 100px;
+    background-color: #0067db;
+    outline: none;
+    
+    
+}
+.dropdown-item{
+    
+    display: block;
+    padding: 10px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.5rem;
+    color: #0067db;
+    white-space: nowrap;
+}
+ul.drop-white a:hover { 
+    background-color:#0067db;
+    color: #fff 
+}
+
+
+.form-control{
+    padding:30px 20px;
+}
+
+.content {
+    background: -webkit-linear-gradient(top,rgba(0,0,0,.5),rgba(0,0,0,.2) 12%,rgba(0,0,0,.2) 88%,rgba(0,0,0,.5));
+}

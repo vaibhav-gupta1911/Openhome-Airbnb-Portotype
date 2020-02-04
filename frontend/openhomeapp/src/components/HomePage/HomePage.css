@@ -1,0 +1,138 @@
+
+#intro{
+    
+    background-image:url("//csvcus.homeaway.com/rsrcs/stab-cms-resources/0.10.30/images/homepage/jumbotron/ptaHpNextHeroImage/large.jpg")  ;
+    background-position: 50%;
+    background-size: cover;
+    /* height: 600px; */
+}
+
+#divForm{
+    background: #fff;
+    border-radius: 5px;
+    /* box-shadow: 3px 3px 3px 3px #d3d0d0; */
+    box-shadow: 0 16px 40px rgba(0,0,0,0.12) ;
+    margin-left: 70px;
+    /* margin-top: 70px; */
+    padding: 25px;
+}
+.btn-inverse {
+    background-color: #fff;
+    color: #0067db;
+    border-color: #fff;
+    margin-right: 10px;
+    padding: 12px 40px;
+    font-size: 14px;
+}
+.birdhouse{
+    height: 50px;
+    width: 50px;
+}
+.bg{
+    background: #0067db;
+}
+.navDrop{
+    padding: 10px 15px;
+    margin-left: 10px;
+    margin-right: 10px
+}
+.btn:focus {
+    outline: none;
+  }
+.bs{
+    width: 300px;
+    line-height: 2.5rem;
+    border: #0067db
+}
+.btn-primary{
+    position: relative;
+    border-radius: 100px;
+    background-color: #0067db;
+    outline: none;
+    
+    
+}
+.dropdown-item{
+    
+    display: block;
+    padding: 10px 20px;
+    clear: both;
+    font-weight: 400;
+    line-height: 1.5rem;
+    color: #0067db;
+    white-space: nowrap;
+}
+ul.drop-white a:hover { 
+    background-color:#0067db;
+    color: #fff }
+.Jumbotron{
+    background-size: cover;
+    background-position: 50%;
+    
+}
+.jumbotron{
+    background: none;
+  
+}
+.Jumbotron__wrapper{
+    /* position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column; */
+    min-height: 78vh;
+  
+}
+.Jumbotron__content{
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+    max-width: 1020px;
+    margin: auto;
+    padding: 0 10px;
+
+}
+.HeadLine {
+    font-size: 40px;
+    color: #fff
+}
+.HeadLine__text {
+    display: block;
+}
+.form-control{
+    padding:30px 20px;
+}
+.ValueProps {
+    width: 100%;
+    padding-bottom: 16px;
+}
+.ValueProps__list {
+    display: -webkit-box;
+    display: flex;
+    list-style-type: none;
+}
+.ValueProps__item {
+    width: 33.33%;
+    text-align: center;
+    color: #fff;
+    font-size: calc(9.567999px - -1 * (1vw - 767px / 100) * .6521009603841537);
+}
+.ValueProps__title {
+    color: #fff;
+    margin-bottom: 0;
+    line-height: normal;
+    font-size: 1.5em;
+    display: block;
+}
+.ValueProps__blurb {
+    font-size: .9vw;
+    display: block;
+}
+.content {
+    background: -webkit-linear-gradient(top,rgba(0,0,0,.5),rgba(0,0,0,.2) 12%,rgba(0,0,0,.2) 88%,rgba(0,0,0,.5));
+}

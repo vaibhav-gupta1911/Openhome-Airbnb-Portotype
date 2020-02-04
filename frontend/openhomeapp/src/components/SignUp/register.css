@@ -1,0 +1,32 @@
+.content {
+    background: -webkit-linear-gradient(top,rgba(0,0,0,.5),rgba(0,0,0,.2) 12%,rgba(0,0,0,.2) 88%,rgba(0,0,0,.5));
+}
+#intro{
+    
+    background-image:url("//csvcus.homeaway.com/rsrcs/stab-cms-resources/0.10.30/images/homepage/jumbotron/ptaHpNextHeroImage/large.jpg")  ;
+    background-position: 50%;
+    background-size: cover;
+    /* height: 600px; */
+}
+.jumbotron{
+    background: none;
+  
+}
+.Jumbotron__wrapper{
+    /* position: relative;
+    -webkit-box-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column; */
+    min-height: 78vh;
+  
+}
+.ValueProps {
+    width: 100%;
+    padding-bottom: 16px;
+}
